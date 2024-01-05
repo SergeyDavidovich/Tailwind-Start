@@ -11,4 +11,3 @@
 
  - [How to Create a Mega Menu](https://www.kindacode.com/article/tailwind-css-how-to-create-a-mega-menu/#Example_Preview)
  
-[Sample-1](https://sample-1.src/index.html)
