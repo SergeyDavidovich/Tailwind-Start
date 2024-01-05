@@ -9,3 +9,6 @@
 
  - [Create a Responsive Navbar with a Search Box](https://www.kindacode.com/article/tailwind-css-create-a-responsive-navbar-with-a-search-box/)
 
+ - [How to Create a Mega Menu](https://www.kindacode.com/article/tailwind-css-how-to-create-a-mega-menu/#Example_Preview)
+ 
+
